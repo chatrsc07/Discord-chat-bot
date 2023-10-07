@@ -11,4 +11,9 @@ You will also need tokens for both your discord bot, which can be generated in t
 Lastly you will need to pip install both the bard api and the discord api. 
 
 ##### tbh I got most of this from tutorials
-test test test 
+##### credit:
+Chat bot in python:
+https://www.youtube.com/watch?v=qhmaDOo7D_E
+
+Discord bot:
+https://www.youtube.com/watch?v=hoDLj0IzZMU
